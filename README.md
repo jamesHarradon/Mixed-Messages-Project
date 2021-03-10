@@ -5,6 +5,6 @@
 
 Based on the Snog Marry Avoid game, it generates three random celebrities, 3 day dates and 3 evening dates. All you do is match each three celebrities with a day and evening date. Bit cheesy I know!
 
-This uses HTML, CSS and Javascript. 
+This uses HTML, CSS and Javascript, all contained within the index.html file.
 
 [Click here to view page live](https://jamesharradon.github.io/)
